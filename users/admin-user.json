@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "b795ad32-8930-11ea-bc55-0242ac130003",
+    "name": "admin@sampleOrg",
+    "password": "password",
+    "email": "sevasampleOrg@example.com",
+    "phoneNumber": "+919999997699",
+    "organisationUUID": "b795aa12-8930-11ea-bc55-0242ac130003",
+    "operatingIndividualScope": "None",
+    "admin": false,
+    "orgAdmin": true
+  }
+]
